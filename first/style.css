@@ -1,0 +1,9 @@
+.absoluteDiv {
+  position: absolute;
+  transform: translateX(-50%);
+}
+
+relativeDiv {
+  margin: 0 auto;
+  display: block;
+}
